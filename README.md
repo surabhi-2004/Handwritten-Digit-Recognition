@@ -1,7 +1,7 @@
 
 # Digit Recognition with CNN and Pygame
 
-This project is designed for digit recognition using a Convolutional Neural Network (CNN) model trained on the MNIST dataset. It includes a Pygame-based application (app.py) to draw and predict handwritten digits in real-time. The CNN model is created and trained in hdr.ipynb.
+This project is designed for digit recognition using a Convolutional Neural Network (CNN) model trained on 60,000 images and tested on 10,000 images and achieved an accuracy of 98% on the test set. It includes a Pygame-based application (app.py) to draw and predict handwritten digits in real-time. The CNN model is created and trained in hdr.ipynb.
 
 # Project Overview
 
